@@ -1,0 +1,47 @@
+.question{
+    margin-left: 3%;
+    height: 250px;
+    display: flex;
+    margin-top: 10px;
+    flex-wrap: wrap;
+}
+
+
+.question img{
+    width: 25%;
+    margin-left: 40% ;
+}
+
+.question h1{
+    text-align: left;
+    width: 92%;
+    font-size: 30px;
+}
+
+.opciones{
+    align-items:center;
+    display: flex;
+}
+.opciones div{
+    align-items: center;
+    display: flex;
+    width: 18%;
+    flex-wrap: wrap;
+}
+
+.question input{
+    width: 30px;
+    height: 20px;
+}
+.question label{
+    width: 85%;
+    padding: 3px ;
+    font-size: 25px;
+    text-align: center;
+}
+
+#img{
+    width: 40px;
+    height: 35px;
+    margin-left: 90%;
+}

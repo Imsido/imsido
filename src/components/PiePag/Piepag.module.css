@@ -1,0 +1,26 @@
+.piepag {
+    margin-top: 2%;
+    padding: 5px;
+}
+
+.piepag button{
+    margin-left: 45%;
+    display: flex;
+    width: 200px;
+    height: 60px;
+    background-color: #207347;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: 700;
+    font-family: sans-serif;
+    align-items: center;
+    color: white;
+    border: none;
+}
+
+.piepag img{
+    
+    width: 60px;
+    height: 50px;
+}

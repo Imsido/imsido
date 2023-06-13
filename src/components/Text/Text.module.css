@@ -1,0 +1,82 @@
+.opciones{
+    margin-top: 2%;
+    display: flex;
+    justify-content: center;
+}
+
+.interactivo{
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.interactivo h1{
+    width: 100%;
+}
+.interactivo span{
+    margin-top: 3%;
+    width: 100%;
+    text-align: justify;
+    font-size: 28px;
+}
+
+.interactivo button{
+    margin-top: 20%;
+    height: 70px;
+    width: 200px;
+    margin-bottom: 2%;
+    background-color:rgb(113, 113, 212);
+    border-radius: 8%;
+    cursor:pointer;
+    border: none;
+    font-size: 20px;
+    font-weight: 600;
+    color: aliceblue;
+
+}
+.normal{
+    margin-left: 3%;
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.normal h1{
+    width: 100%;
+}
+.normal span{
+    margin-top: 3%;
+    width: 100%;
+    text-align: justify;
+    font-size: 28px;
+}
+
+.normal button{
+    margin-top: 20%;
+    height: 70px;
+    width: 200px;
+    margin-bottom: 2%;
+    background-color:rgb(113, 113, 212);
+    border-radius: 8%;
+    cursor:pointer;
+    border: none;
+    font-size: 20px;
+    font-weight: 600;
+    color: aliceblue;
+}
+
+.normal img {
+    margin-top: -2%;
+    margin-left: 70%;
+    width: 30px;
+    height: 30px;
+}
+
+.interactivo img{
+    margin-top: -2%;
+    margin-left: 70%;
+    width: 30px;
+    height: 30px;
+}

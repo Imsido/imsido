@@ -1,0 +1,41 @@
+.Menu{
+    display: flex;
+    background-color: rgb(250, 250, 250);
+}
+
+.imgMenu{
+    display: flex;
+    align-items:flex-start;
+    height: 65%;
+    width: 55%;
+}
+
+.imgMenu img{
+    margin-top: 5%;
+    width: 95%;
+    margin-left:7% ;
+    margin-bottom: 5%;
+}
+
+.text{
+    margin-left: 3%;
+    justify-content: center;
+    display: flex;
+    width: 40%;
+    flex-wrap: wrap;
+}
+.text h1{
+    margin-top: 15%;
+}
+.text span{
+    margin-top: -5%;
+    text-align: justify;
+    font-size: 24px;
+    width: 90%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.text img{
+    margin-top: 28%;
+    width: 30px;
+    height: 30px;
+}
