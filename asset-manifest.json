@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/imsido/static/css/main.7e0d7b92.css",
+    "main.js": "/imsido/static/js/main.e6368747.js",
+    "static/js/787.69c90f9e.chunk.js": "/imsido/static/js/787.69c90f9e.chunk.js",
+    "index.html": "/imsido/index.html",
+    "main.7e0d7b92.css.map": "/imsido/static/css/main.7e0d7b92.css.map",
+    "main.e6368747.js.map": "/imsido/static/js/main.e6368747.js.map",
+    "787.69c90f9e.chunk.js.map": "/imsido/static/js/787.69c90f9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e0d7b92.css",
+    "static/js/main.e6368747.js"
+  ]
+}
